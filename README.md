@@ -35,7 +35,7 @@ npm install
 ```
 
 ### 2. Yapılandırma
-Proje ana dizininde `.env` dosyasını oluşturun ve veritabanı bilgilerinizi girin (Örnek: `.env.example`):
+Proje ana dizininde `.env` dosyasını oluşturun ve veritabanı bilgilerinizi girin.
 
 ```env
 DB_HOST=localhost
