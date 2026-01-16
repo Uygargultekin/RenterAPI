@@ -9,7 +9,7 @@ RenterAPI, temel olarak bir araç kiralama şirketinin dijital altyapısını ol
 
 ## 🎬 Senaryo Tanımı
 
-Bir "Rent a Car" firması, filosundaki araçları ve kiralama geçmişini manuel yöntemlerle takip etmekte zorlanmaktadır. Araçların müsaitlik durumunun anlık olarak bilinememesi çifte rezervasyonlara yol açmaktadır. Ayrıca 21 yaş altı sürücülere kiralama yapılmaması gibi kuralların manuel kontrolü insan hatasına açıktır.
+Bir "Rent a Car" firması, filosundaki araçları ve kiralama geçmişini manuel yöntemlerle takip etmekte zorlanmaktadır. Araçların müsaitlik durumunun anlık olarak bilinememesi çifte rezervasyonlara yol açmaktadır. Ayrıca 21 yaş altı sürücülere kiralama yapılmaması gibi kuralların manuel kontrolü hataya açıktır.
 
 **RenterAPI** bu sorunları şu şekilde çözer:
 1.  **Envanter Yönetimi:** Araçların marka, model, plaka ve anlık durumları veritabanında saklanır.
