@@ -26,3 +26,4 @@ db.sync({ alter: true })
     .catch(hata => {
         console.error('Veritabani baglanti hatasi:', hata);
     });
+
